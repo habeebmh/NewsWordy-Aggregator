@@ -14,8 +14,6 @@ public class Main {
 
     static String feedFile = "";
     static String outFilePath = "";
-    // static String badwordsText = "";
-
 
     public static void main(String[] args) {
         Main main = new Main();
